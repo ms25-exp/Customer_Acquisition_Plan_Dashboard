@@ -1,4 +1,5 @@
-Customer Acquisition Financial Plan & Dashboard
+**Customer Acquisition Financial Plan & Dashboard**
+
 📊 Project Overview
 This project analyzes customer acquisition costs (CAC) and revenue potential using financial planning and visualization techniques. It includes data-driven insights, a dynamic dashboard, and strategic recommendations to optimize acquisition costs and maximize profitability.
 
